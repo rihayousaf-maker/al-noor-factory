@@ -1,0 +1,39 @@
+AL NOOR FACTORY WEBSITE - HOW TO PUT IT ONLINE (FREE)
+=====================================================
+
+This folder IS the finished website. Nothing needs to be built or installed.
+Upload everything in this folder to free hosting and it works.
+
+OPTION 1 - GitHub Pages (free, permanent, public)
+-------------------------------------------------
+1. Go to https://github.com and sign in (or create a free account).
+2. Click "+" (top right) -> "New repository".
+   Name: al-noor-factory   |   Choose: Public   |   Click "Create repository".
+3. On the next page click "uploading an existing file".
+4. Open this folder on your computer, select ALL files and folders inside it
+   (index.html, assets, images, videos, favicon.svg, robots.txt ...)
+   and drag them onto the GitHub page. Wait until all files are listed.
+   Then click "Commit changes".
+5. Go to the repository's "Settings" -> "Pages" (left menu).
+   Under "Build and deployment":  Source = "Deploy from a branch"
+                                  Branch = "main"   Folder = "/ (root)"   -> Save
+6. Wait 1-2 minutes and refresh the Pages settings page.
+   Your website address appears at the top, for example:
+       https://YOUR-USERNAME.github.io/al-noor-factory/
+   Anyone can open it. Share it on WhatsApp, Facebook, LinkedIn, business cards.
+
+To change something later: open the repository, upload the new file with the same
+name (it replaces the old one) and commit. The website updates in 1-2 minutes.
+
+OPTION 2 - Netlify Drop (fastest)
+---------------------------------
+1. Open https://app.netlify.com/drop
+2. Drag this whole folder onto the page. The site goes live in a few seconds.
+3. Sign up for a free Netlify account (or log in) to claim the site, so it stays
+   online and you can make it public. You can rename the address in Site settings.
+
+IMPORTANT
+---------
+- Keep the folder structure exactly as it is (assets, images, videos folders).
+- index.html must be at the top level of what you upload, not inside another folder.
+- Phone / WhatsApp on the website: 0334 5138389 (+92 334 5138389).
